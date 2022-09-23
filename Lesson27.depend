@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1613558053 source:c:\src\opengl\lesson27\lesson27.rc
+	<windows.h>
+	<winver.h>
+	"resource.h"
+
+1613552693 c:\src\opengl\lesson27\resource.h
+
+1613559975 source:c:\src\opengl\lesson27\lesson27.c
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<stdbool.h>
+	<wtypes.h>
+	"3dobject.h"
+
+1613560750 c:\src\opengl\lesson27\3dobject.h
+	<stdio.h>
+
+1630853675 source:c:\src\opengl\nehe_lesson27-master\lesson27.rc
+	<windows.h>
+	<winver.h>
+	"resource.h"
+
+1630853675 c:\src\opengl\nehe_lesson27-master\resource.h
+
+1613571946 source:c:\src\opengl\nehe_lesson27-master\lesson27.c
+	<windows.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<stdlib.h>
+	<stdbool.h>
+	<wtypes.h>
+	"3dobject.h"
+
+1613560750 c:\src\opengl\nehe_lesson27-master\3dobject.h
+	<stdio.h>
+
+1663939611 source:c:\src\opengl\nehe_lesson27-master\src\lesson27.rc
+	<windows.h>
+	<winver.h>
+	"resource.h"
+
+1630857275 c:\src\opengl\nehe_lesson27-master\src\resource.h
+
